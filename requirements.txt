@@ -1,0 +1,4 @@
+tensorflow==2.12
+numpy==1.23
+mediapipe==0.10.21
+gradio==6.12.0
